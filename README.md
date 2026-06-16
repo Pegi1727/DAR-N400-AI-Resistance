@@ -37,10 +37,6 @@ Official repository for the study: **"Distributed Authorial Resistance (DAR): Ne
 
 ---
 
-## 📊 Key Experimental Results
-
-### 1. Neural Markers of Epistemic Monitoring (N400)
-
 ## 📊 Key Experimental Figures
 ‌
 Below are the primary neurophysiological and statistical visualizations extracted from the MNLSP protocol:
