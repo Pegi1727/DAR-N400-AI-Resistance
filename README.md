@@ -32,23 +32,25 @@ A critical challenge in Neuro-AI studies is distinguishing effort-related fatigu
 # Distributed Authorial Resistance (DAR): Neural Correlates of Critical Engagement
 
 Official repository for the study: **"Distributed Authorial Resistance (DAR): Neural Correlates of Critical Engagement vs. Fatigue in Human-AI Collaborative Writing."**
-
----
 ## 🖼️ Graphical Abstract
-![Graphical Abstract](figures/graphical_abstract.png)
+<img src="https://raw.githubusercontent.com/Pegi1727/DAR-N400-AI-Resistance/main/figures/graphical_abstract.png" width="800">
 
 ---
 
 ## 📊 Key Experimental Results
 
 ### 1. Neural Markers of Epistemic Monitoring (N400)
-![Figure 1: N400 Waveforms](figures/figure_1_simulated_erp_n400.png)
+<img src="https://raw.githubusercontent.com/Pegi1727/DAR-N400-AI-Resistance/main/figures/figure_1_simulated_erp_n400.png" width="800">
 
 ### 2. Statistical Analysis of ERP Amplitudes
-![Figure 2: Amplitudes](figures/figure_2_erp_amplitudes_bar.png)
+<img src="https://raw.githubusercontent.com/Pegi1727/DAR-N400-AI-Resistance/main/figures/figure_2_erp_amplitudes_bar.png" width="800">
 
 ### 3. ERP Latency Results
-![Figure 3: Latencies](figures/figure_3_erp_latencies_bar.png)
+<img src="https://raw.githubusercontent.com/Pegi1727/DAR-N400-AI-Resistance/main/figures/figure_3_erp_latencies_bar.png" width="800">
 
 ### 4. Cognitive Engagement Index (Theta/Alpha)
+<img src="https://raw.githubusercontent.com/Pegi1727/DAR-N400-AI-Resistance/main/figures/figure_4_theta_alpha_ratio.png" width="800">
+
+
+---a/Alpha)
 ![Figure 4: Theta/Alpha Ratio](figures/figure_4_theta_alpha_ratio.png)
