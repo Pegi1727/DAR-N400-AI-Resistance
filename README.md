@@ -47,7 +47,6 @@ Summary of amplitude and latency differences across conditions.
 ├── notebooks/          # Jupyter Notebooks for interactive visualization
 ├── requirements.txt    # Python dependencies
 
-
 ### 📂 Data Directory Structure
 
 | File Name | Granularity | Key Features | Description |
