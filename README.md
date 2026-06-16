@@ -53,7 +53,7 @@ Summary of amplitude and latency differences across conditions.
 | File Name | Granularity | Key Features | Description |
 |:---|:---|:---|:---|
 | `DAR_Results_PegahM.csv` | Condition Level | ERP Amplitudes, Theta/Alpha | Aggregated summary for ANOVA testing. |
-| `DAR_Trial_Level_Dataset_Pegah.csv` | Trial Level | RT_ms, Theta_Alpha, N400 | Detailed trial-by-trial data for LMM analysis. |
+| `DAR_Trial_Level_Dataset_Pegah.csv` | Trial Level | RT_ms, Theta_Alpha, N400 | Trial-by-trial data for LMM analysis. |
 | `DAR_Study_Trial_Level_Data.csv` | Study Level | Group, Session, N400, P300 | Longitudinal comparisons (Pre vs. Post). |
 | `processed_erp_data.csv` | Processed | Waveform Amplitudes | Cleaned data for Grand Average plotting. |
 
