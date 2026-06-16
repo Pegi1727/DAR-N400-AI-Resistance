@@ -34,53 +34,36 @@ A critical challenge in Neuro-AI studies is distinguishing effort-related fatigu
 Official repository for the study: **"Distributed Authorial Resistance (DAR): Neural Correlates of Critical Engagement vs. Fatigue in Human-AI Collaborative Writing."**
 
 ---
-## 🖼️ Graphical Abstract
-Below is the conceptual framework of the DAR model compared to passive AI-mediated writing.
 
-![Graphical Abstract](./figures/graphic%20abstract.png)
-*Figure 0: Conceptual overview of the DAR framework vs. Mental Fatigue during AI collaboration.*
+## 🖼️ Graphical Abstract
+![Graphical Abstract](figures/graphical_abstract.png)
 
 ---
 
 ## 📊 Key Experimental Results
 
 ### 1. Neural Markers of Epistemic Monitoring (N400)
-The following waveform shows the Grand Average ERPs. The increased N400 amplitude in the DAR group signifies active semantic processing of AI-generated text.
-
-![Figure 1: N400 Waveforms](./figures/figure_1_simulated_erp_n400.png)
-*Figure 1: Grand average ERP waveforms at the Cz electrode site. Red: DAR Group, Blue: Control Group.*
+![Figure 1: N400 Waveforms](figures/figure_1_simulated_erp_n400.png)
+*Grand average ERP waveforms at the Cz electrode site.*
 
 ### 2. Statistical Analysis of ERP Amplitudes
-Comparison of peak amplitudes for N400 and P300 components.
-
-![Figure 2: Amplitudes](./figures/figure_2_erp_amplitudes_bar.png)
-*Figure 2: Mean peak amplitudes. Significant enhancement (p < 0.001) in N400 reflects deeper critical engagement.*
+![Figure 2: Amplitudes](figures/figure_2_erp_amplitudes_bar.png)
+*Mean peak amplitudes for N400 and P300 components.*
 
 ### 3. ERP Latency Results
-Analysis of processing speed across different groups.
-
-![Figure 3: Latencies](./figures/figure_3_erp_latencies_bar.png)
-*Figure 3: Peak latency distribution, showing stability in processing speed despite higher cognitive load in DAR.*
+![Figure 3: Latencies](figures/figure_3_erp_latencies_bar.png)
+*Peak latency distribution across groups.*
 
 ### 4. Cognitive Engagement Index (Theta/Alpha)
-The Frontal Theta/Alpha ratio serves as a robust marker for task engagement and executive control.
-
-![Figure 4: Theta/Alpha Ratio](./figures/figure_4_theta_alpha_ratio.png)
-*Figure 4: Frontal Theta/Alpha Ratio during AI-text evaluation. DAR group shows significantly higher engagement (Cohen's d = 0.82).*
+![Figure 4: Theta/Alpha Ratio](figures/figure_4_theta_alpha_ratio.png)
+*Frontal Theta/Alpha Ratio (DAR vs. Control).*
 
 ---
 
 ## 📁 Repository Structure
-- `data/`: Raw and processed EEG data (simulated/anonymized).
-- `scripts/`: Python scripts for signal processing and ERP extraction.
-- `notebooks/`: Jupyter Notebooks for statistical analysis and plotting.
-- `figures/`: High-resolution versions of all plots.
-
-## 🚀 How to Use
-1. Clone the repository: `git clone https://github.com/Pegi1727/DAR-N400-AI-Resistance.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the analysis: `python scripts/analyze_erp.py`
+- `figures/`: Contains all experimental plots and the graphical abstract.
+- `scripts/`: Python scripts for data analysis.
+- `data/`: EEG data files (anonymized).
 
 
-└── requirements.txt    # Python dependencies
-
+---
