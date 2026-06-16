@@ -35,10 +35,8 @@ Summary of amplitude and latency differences across conditions.
   <img src="figures/figure_3_erp_latencies_bar.png" width="400">
 </p>
 
----
-
-## 📁 Repository Structure
-```text
+📁 Repository Structure
+text
 ├── data/               # De-identified processed EEG data (epochs)
 ├── scripts/            # Core analysis pipeline
 │   ├── preprocess.py   # Artifact rejection (ICA) and filtering
@@ -46,16 +44,12 @@ Summary of amplitude and latency differences across conditions.
 ├── figures/            # High-resolution plots for the manuscript
 ├── notebooks/          # Jupyter Notebooks for interactive visualization
 ├── requirements.txt    # Python dependencies
-
-### 📂 Data Directory Structure
-
-| File Name | Granularity | Key Features | Description |
-| :--- | :--- | :--- | :--- |
-| `DAR_Results_PegahM.csv` | Condition Level | ERP Amplitudes | Aggregated summary for ANOVA. |
-| `DAR_Trial_Level_Dataset_Pegah.csv` | Trial Level | RT_ms, N400 | Trial-by-trial data for LMM. |
-| `DAR_Study_Trial_Level_Data.csv` | Study Level | Pre/Post Session | Longitudinal study data. |
-| `processed_erp_data.csv` | Processed | Waveforms | Cleaned data for plotting. |
-
-
 └── LICENSE             # MIT License
+📂 Data Directory Structure
+File Name	Granularity	Key Features	Description
+DAR_Results_PegahM.csv	Condition Level	ERP Amplitudes	Aggregated summary for ANOVA.
+DAR_Trial_Level_Dataset_Pegah.csv	Trial Level	RT_ms, N400	Trial-by-trial data for LMM.
+DAR_Study_Trial_Level_Data.csv	Study Level	Pre/Post Session	Longitudinal study data.
+processed_erp_data.csv	Processed	Waveforms	Cleaned data for plotting.
+---
 
