@@ -48,23 +48,14 @@ Summary of amplitude and latency differences across conditions.
 ├── requirements.txt    # Python dependencies
 └── LICENSE             # MIT License
 
-📂 Data Directory Structure
-This folder contains the datasets used for the Distributed Authorial Resistance (DAR) project. The data is organized into summary-level and trial-level formats to facilitate both statistical analysis and visualization of N400/P300 components and Theta/Alpha ratios.
+### 📂 Data Directory Structure
 
-📊 Dataset Overview
-File Name	Granularity	Key Features / Columns	Description
-DAR_Results_PegahM.csv	Condition Level	Condition, N400_uV, P300_uV, Theta_Alpha_Ratio, Interpretation	Aggregated summary of ERP amplitudes and cognitive load indicators per experimental condition.
-DAR_Trial_Level_Dataset_Pegah.csv	Trial Level	Participant, Condition, Trial, RT_ms, Theta_Alpha, N400/P300	Detailed trial-by-trial data including reaction times (RT) and frequency band ratios for high-resolution analysis.
-DAR_Study_Trial_Level_Data.csv	Study Level	Participant, Group, Session, Item_ID, N400_uV, P300_uV	Longitudinal study data capturing changes across different sessions (Pre-test vs. Post-test) and participant groups.
-processed_erp_data.csv	Processed	time_ms, amplitude_uV, channel	Cleaned and filtered ERP waveform data ready for plotting Grand Average Waveforms.
-🛠 Data Dictionary
-N400_uV: Negative-going deflection peaking around 400ms (indicates conceptual processing/resistance).
-P300_uV: Positive-going deflection peaking around 300ms (indicates attention and decision-making).
-Theta_Alpha_Ratio: Indicator of cognitive workload and engagement.
-RT_ms: Reaction time in milliseconds.
-Condition: Experimental labels (conceptual_cliche, human_authentic, ai_neutral, etc.).
-📝 Notes
-All files are provided in .csv format for compatibility with Python (Pandas), R, and SPSS.
-Data involving Prof. Pegah M. includes metadata such as author and date for version tracking of the results.
+| File Name | Granularity | Key Features | Description |
+|:---|:---|:---|:---|
+| `DAR_Results_PegahM.csv` | Condition Level | ERP Amplitudes, Theta/Alpha | Aggregated summary for ANOVA testing. |
+| `DAR_Trial_Level_Dataset_Pegah.csv` | Trial Level | RT_ms, Theta_Alpha, N400 | Detailed trial-by-trial data for LMM analysis. |
+| `DAR_Study_Trial_Level_Data.csv` | Study Level | Group, Session, N400, P300 | Longitudinal comparisons (Pre vs. Post). |
+| `processed_erp_data.csv` | Processed | Waveform Amplitudes | Cleaned data for Grand Average plotting. |
+
 
 }")
