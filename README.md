@@ -34,7 +34,6 @@ A critical challenge in Neuro-AI studies is distinguishing effort-related fatigu
 Official repository for the study: **"Distributed Authorial Resistance (DAR): Neural Correlates of Critical Engagement vs. Fatigue in Human-AI Collaborative Writing."**
 
 ---
-
 ## 🖼️ Graphical Abstract
 Below is the conceptual framework of the DAR model compared to passive AI-mediated writing.
 
