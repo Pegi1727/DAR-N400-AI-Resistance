@@ -28,5 +28,23 @@ A critical challenge in Neuro-AI studies is distinguishing effort-related fatigu
 │   └── stats_models.R  # Linear Mixed-Effects Models for DAR
 ├── notebooks/          # Visualization (ERP Waveforms, Topomaps)
 ├── figures/            # High-resolution plots for the manuscript
+
+git clone https://github.com/YourUsername/DAR-N400-AI-Resistance.git
+cd DAR-N400-AI-Resistance
+pip install -r requirements.txt
+   python scripts/preprocess.py --input raw_data/ --output cleaned/
+   
+   python scripts/erp_extract.py --component N400
+   
+   python scripts/erp_extract.py --component N400
+   
+@article{YourName2026DAR,
+  title={Distributed Authorial Resistance (DAR): Neural Correlates of Critical Engagement vs. Fatigue in Human-AI Collaborative Writing},
+  author={Pegah Merrikhi},
+  journal={Journal of Neuroscience / NeuroImage (TBD)},
+  year={2026},
+  url={https://doi.org/xxxx/xxxx}
+}
+
 └── requirements.txt    # Python dependencies
 
