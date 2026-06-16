@@ -34,7 +34,6 @@ A critical challenge in Neuro-AI studies is distinguishing effort-related fatigu
 Official repository for the study: **"Distributed Authorial Resistance (DAR): Neural Correlates of Critical Engagement vs. Fatigue in Human-AI Collaborative Writing."**
 
 ---
-
 ## 🖼️ Graphical Abstract
 ![Graphical Abstract](figures/graphical_abstract.png)
 
@@ -44,26 +43,12 @@ Official repository for the study: **"Distributed Authorial Resistance (DAR): Ne
 
 ### 1. Neural Markers of Epistemic Monitoring (N400)
 ![Figure 1: N400 Waveforms](figures/figure_1_simulated_erp_n400.png)
-*Grand average ERP waveforms at the Cz electrode site.*
 
 ### 2. Statistical Analysis of ERP Amplitudes
 ![Figure 2: Amplitudes](figures/figure_2_erp_amplitudes_bar.png)
-*Mean peak amplitudes for N400 and P300 components.*
 
 ### 3. ERP Latency Results
 ![Figure 3: Latencies](figures/figure_3_erp_latencies_bar.png)
-*Peak latency distribution across groups.*
 
 ### 4. Cognitive Engagement Index (Theta/Alpha)
 ![Figure 4: Theta/Alpha Ratio](figures/figure_4_theta_alpha_ratio.png)
-*Frontal Theta/Alpha Ratio (DAR vs. Control).*
-
----
-
-## 📁 Repository Structure
-- `figures/`: Contains all experimental plots and the graphical abstract.
-- `scripts/`: Python scripts for data analysis.
-- `data/`: EEG data files (anonymized).
-
-
----
