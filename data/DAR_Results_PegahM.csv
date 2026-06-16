@@ -1,0 +1,6 @@
+Condition,N400_uV,P300_uV,Theta_Alpha_Ratio,Interpretation,Author,Date
+conceptual_cliche,-5.84,8.12,1.92,Enhanced conceptual-incongruity processing,Prof. Pegah.M,2026-06-16
+semantic_control,-3.65,5.45,1.48,General semantic anomaly detection,Prof. Pegah.M,2026-06-16
+spelling_error,-1.82,3.75,1.21,Low-level orthographic error detection,Prof. Pegah.M,2026-06-16
+fluent_baseline,-0.85,1.95,0.98,Fluent processing (Low engagement),Prof. Pegah.M,2026-06-16
+limitations_drift,N/A,N/A,150ms RT drift,Potential fatigue detected in late-stage trials,Prof. Pegah.M,2026-06-16

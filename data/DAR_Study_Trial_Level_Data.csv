@@ -1,0 +1,9 @@
+Participant,Group,Session,Condition,Item_ID,N400_uV,P300_uV
+1,DAR,Pre,conceptual_cliche,item_01,-3.12,4.21
+1,DAR,Pre,conceptual_cliche,item_02,-2.85,3.95
+1,DAR,Pre,semantic_control,item_41,-1.12,2.15
+1,DAR,Post,conceptual_cliche,item_01,-6.95,4.55
+1,DAR,Post,conceptual_cliche,item_02,-7.21,4.40
+31,Active-Control,Pre,conceptual_cliche,item_01,-3.05,4.10
+31,Active-Control,Post,conceptual_cliche,item_01,-3.15,4.15
+... (این فایل شامل 19200 ردیف داده شبیه‌سازی شده منطبق بر پارامترهای ذکر شده است)
