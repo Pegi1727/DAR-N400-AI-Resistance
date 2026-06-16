@@ -40,17 +40,21 @@ Official repository for the study: **"Distributed Authorial Resistance (DAR): Ne
 ## 📊 Key Experimental Results
 
 ### 1. Neural Markers of Epistemic Monitoring (N400)
-<img src="https://raw.githubusercontent.com/Pegi1727/DAR-N400-AI-Resistance/main/figures/figure_1_simulated_erp_n400.png" width="800">
 
-### 2. Statistical Analysis of ERP Amplitudes
-<img src="https://raw.githubusercontent.com/Pegi1727/DAR-N400-AI-Resistance/main/figures/figure_2_erp_amplitudes_bar.png" width="800">
-
-### 3. ERP Latency Results
-<img src="https://raw.githubusercontent.com/Pegi1727/DAR-N400-AI-Resistance/main/figures/figure_3_erp_latencies_bar.png" width="800">
-
-### 4. Cognitive Engagement Index (Theta/Alpha)
-<img src="https://raw.githubusercontent.com/Pegi1727/DAR-N400-AI-Resistance/main/figures/figure_4_theta_alpha_ratio.png" width="800">
-
-
----a/Alpha)
-![Figure 4: Theta/Alpha Ratio](figures/figure_4_theta_alpha_ratio.png)
+## 📊 Key Experimental Figures
+‌
+Below are the primary neurophysiological and statistical visualizations extracted from the MNLSP protocol:
+‌
+| Figure 1: N400 ERP Simulation | Figure 4: Theta/Alpha Ratio |
+|:---:|:---:|
+| ![N400 Simulation](figures/figure_1_simulated_erp_n400.png) | ![Theta Alpha Ratio](figures/figure_4_theta_alpha_ratio.png) |
+| *Semantic processing and N400 component response to deceptive stimuli.* | *Cognitive load distribution measured via EEG spectral power.* |
+‌
+| Figure 2: ERP Amplitudes | Figure 3: ERP Latencies |
+|:---:|:---:|
+| ![ERP Amplitudes](figures/figure_2_erp_amplitudes_bar.png) | ![ERP Latencies](figures/figure_3_erp_latencies_bar.png) |
+| *Comparative analysis of amplitude shifts across dark pattern categories.* | *Temporal delay in processing complex linguistic structures.* |
+‌
+---
+### 🖼️ Graphical Abstract
+![Graphical Abstract](figures/graphical_abstract.png)
