@@ -46,16 +46,17 @@ Summary of amplitude and latency differences across conditions.
 ├── figures/            # High-resolution plots for the manuscript
 ├── notebooks/          # Jupyter Notebooks for interactive visualization
 ├── requirements.txt    # Python dependencies
-└── LICENSE             # MIT License
+
 
 ### 📂 Data Directory Structure
 
 | File Name | Granularity | Key Features | Description |
-|:---|:---|:---|:---|
-| `DAR_Results_PegahM.csv` | Condition Level | ERP Amplitudes, Theta/Alpha | Aggregated summary for ANOVA testing. |
-| `DAR_Trial_Level_Dataset_Pegah.csv` | Trial Level | RT_ms, Theta_Alpha, N400 | Trial-by-trial data for LMM analysis. |
-| `DAR_Study_Trial_Level_Data.csv` | Study Level | Group, Session, N400, P300 | Longitudinal comparisons (Pre vs. Post). |
-| `processed_erp_data.csv` | Processed | Waveform Amplitudes | Cleaned data for Grand Average plotting. |
+| :--- | :--- | :--- | :--- |
+| `DAR_Results_PegahM.csv` | Condition Level | ERP Amplitudes | Aggregated summary for ANOVA. |
+| `DAR_Trial_Level_Dataset_Pegah.csv` | Trial Level | RT_ms, N400 | Trial-by-trial data for LMM. |
+| `DAR_Study_Trial_Level_Data.csv` | Study Level | Pre/Post Session | Longitudinal study data. |
+| `processed_erp_data.csv` | Processed | Waveforms | Cleaned data for plotting. |
 
 
-}")
+└── LICENSE             # MIT License
+
